@@ -7,7 +7,7 @@
   <description>Neurodiversity, sensory processing, strengths-based parenting. Embracing your child's unique mind.</description>
   <itunes:author>Ruby An</itunes:author>
   <itunes:email>lifelove.positive@gmail.com</itunes:email>
-  <itunes:image href=""/>
+  <itunes:image href="https://raw.githubusercontent.com/hoainamgo/kp-course02-neuro/main/assets/cover.jpg"/>
   <itunes:category text="Kids &amp; Family"><itunes:category text="Parenting"/></itunes:category>
   <itunes:owner><itunes:name>Ruby An</itunes:name><itunes:email>lifelove.positive@gmail.com</itunes:email></itunes:owner>
   <item>
@@ -16,6 +16,14 @@
     <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course02-neuro/main/audio/EP011_podcast.mp3" type="audio/mpeg" length="4769132"/>
     <guid isPermaLink="false">kp-c02-ep011</guid>
     <pubDate>Fri, 10 Jul 2026 07:14:02 +0000</pubDate>
+    <itunes:duration>480</itunes:duration>
+  </item>
+  <item>
+    <title>Episode 011 (EP011)</title>
+    <description>Neurodiversity, sensory processing, strengths-based parenting. Embracing your child's unique mind.</description>
+    <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course02-neuro/main/audio/EP011_podcast.mp3" type="audio/mpeg" length="4769132"/>
+    <guid isPermaLink="false">kp-c02-ep011</guid>
+    <pubDate>Fri, 10 Jul 2026 07:18:37 +0000</pubDate>
     <itunes:duration>480</itunes:duration>
   </item>
 </channel>
