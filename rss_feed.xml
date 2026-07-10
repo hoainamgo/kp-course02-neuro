@@ -26,5 +26,13 @@
     <pubDate>Fri, 10 Jul 2026 07:18:37 +0000</pubDate>
     <itunes:duration>480</itunes:duration>
   </item>
+  <item>
+    <title>Episode 011 (EP011)</title>
+    <description>Neurodiversity, sensory processing, strengths-based parenting. Embracing your child's unique mind.</description>
+    <enclosure url="https://raw.githubusercontent.com/hoainamgo/kp-course02-neuro/main/audio/EP011_podcast.mp3" type="audio/mpeg" length="4769132"/>
+    <guid isPermaLink="false">kp-c02-ep011</guid>
+    <pubDate>Fri, 10 Jul 2026 07:19:06 +0000</pubDate>
+    <itunes:duration>480</itunes:duration>
+  </item>
 </channel>
 </rss>
